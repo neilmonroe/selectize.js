@@ -86,6 +86,12 @@ $(function() {
 		<td valign="top"><code>true</code></td>
 	</tr>
 	<tr>
+		<td valign="top"><code>openOnDelete</code></td>
+		<td valign="top">Show the dropdown immediately after removing an item.</td>
+		<td valign="top"><code>boolean</code></td>
+		<td valign="top"><code>true</code></td>
+	</tr>
+	<tr>
 		<td valign="top"><code>maxOptions</code></td>
 		<td valign="top">The max number of items to render at once in the dropdown list of options.</td>
 		<td valign="top"><code>int</code></td>
